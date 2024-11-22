@@ -1,0 +1,46 @@
+.horver-red a{
+    transition: background-color .5s;
+}
+.horver-red a:hover{
+    color: rgb(233, 28, 28); 
+}
+.marg{
+    padding-left: 300px;
+}
+.img-h{
+    height: 700px;
+}
+.icon{
+    width: 40px;
+    height: 40px;
+}
+.back-ground{
+    background-image: url(../images/farm.jpg);
+    width: 100%;
+    height: vh;
+    }
+    .horver-red:hover{
+    color: rgb(219, 79, 79);
+    }
+    .www{
+        width: 16%;
+    }
+    .we{
+        width: 40%;
+        
+    }
+    .wee{
+        width: 25%;
+ }
+ .uuimg img{
+    width: 100%;
+ }
+.imgs{
+    padding: 20px;
+}
+.hover-red:hover h1{
+    color: rgb(235, 63, 63);
+}
+.w30{
+    width: 30%;
+}
